@@ -1,0 +1,4 @@
+#Sun May 19 02:49:24 IST 2019
+base.0=/Users/shubhamanand/Desktop/react/react_native/basic_react_native/UtilityApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
